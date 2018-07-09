@@ -1,15 +1,12 @@
 {
   "name": "Bots",
   "version": "1.0.0",
-  "description": "",
+  "description": "asd",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "11.3.2"
   }
 }
