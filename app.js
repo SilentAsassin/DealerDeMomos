@@ -1,6 +1,5 @@
 const discord =require("discord.js");
 const client = new discord.Client();
-const config =require("./config.json");
 memes= "./img/1.jpg";
 meme3="https://cdn.discordapp.com/attachments/408801219235282955/465350201692127232/IMG-20180707-WA0013.jpg";//nos amenazaron
 meme4="https://cdn.discordapp.com/attachments/465350324274593802/465350497713258516/9de38f5729a20c1a4eb4232fe658048f9cd8c205ab38b68bd75c194a556ff3aa.jpg";//da way
