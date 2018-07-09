@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "asd",
   "main": "app.js",
+   "engines": {
+    "npm": "5.7.1",},
   "scripts": {
     "start": "node app.js"
   },
@@ -10,7 +12,6 @@
     "discord.js": "11.3.2",
     
   },
-   "engines": {
-    "npm": "5.7.1"
-  }
+  
+  
 }
