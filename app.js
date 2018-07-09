@@ -173,4 +173,4 @@ if(message.content.startsWith("xd")){//25
 
 
 
-client.login(token);
+client.login(process.env.token);
