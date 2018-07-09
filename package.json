@@ -8,5 +8,8 @@
   },
   "dependencies": {
     "discord.js": "11.3.2"
-  }
+  },
+   "engines": {
+    "npm": "5.7.1"
+   }
 }
