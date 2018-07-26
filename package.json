@@ -2,7 +2,7 @@
   "name": "Bots",
   "version": "1.0.0",
   "description": "asd",
-  "main": "app.js",
+  "main": "node app.js",
   "scripts": {
     "start": "node app.js"
   },
