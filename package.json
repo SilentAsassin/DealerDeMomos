@@ -1,17 +1,31 @@
 {
-"name": "app",
-  "version": "2.0.3",
-  "description": "",
+  "name": "Dealerdememes",
+  "version": "1.0.0",
+  "description": "prueba :)",
   "main": "app.js",
-  "scripts": {
-    "start": "node .",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "engines": {
-    "node": "8.4.0"
-  },
+    "node":"v10.16.3",
+    "npm":"6.9.0"
+    },
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.5.1"
   },
-  "keywords":[]
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asd"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "asd"
+  },
+  "homepage": "asd"
 }
