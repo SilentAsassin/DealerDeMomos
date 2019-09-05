@@ -235,4 +235,4 @@ if(message.content.includes("xd")){//25
   }
 });
 
-client.login("NDY1NzQzNjY4OTM1MTMxMTQ3.DiSrfg.sqJmtFbJkhG5jSE3idzB-C3RcGQ");
+client.login(process.env.TOKEN);
