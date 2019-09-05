@@ -1,16 +1,17 @@
 {
-  "name": "Bots",
-  "version": "1.0.0",
-  "description": "asd",
-  "main": "node app.js",
+"name": "app",
+  "version": "2.0.3",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.4.0"
   },
   "dependencies": {
-    "discord.js": "11.3.2"
+    "discord.js": "^11.4.2"
   },
-   "engines": {
-    "npm": "5.7.1",
-     "node": "10.6.0"
-   }
+  "keywords":[]
 }
